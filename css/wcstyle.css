@@ -65,7 +65,6 @@ html,body{
 		flex-direction: column;
 		top: 0;
     	background-color: rgba(212,67,67,0.4);
-    	position: fixed;
     	margin: 0;
     	width: 100%;
 	}
