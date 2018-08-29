@@ -88,7 +88,7 @@ html,body{
 	align-items: stretch;
 }
 .first{
-  background-image: url("images/yuvrajsingh.jpg");
+  background-image: url("../images/yuvrajsingh.jpg");
   background-size: 100% 100%; 
   flex: 1;
   background-color: #3a4e48;
@@ -98,7 +98,7 @@ html,body{
   color: #F6F0F2;
 }
 .second{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/sachin.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../images/sachin.jpg");
   flex: 1;
   padding: 10px 25px;
   background-color: #d8bfaa;
@@ -109,7 +109,7 @@ html,body{
   /* box-sizing: border-box; */
 }
 .third{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/dhoni.jpg"); 
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("..//images/dhoni.jpg"); 
   flex: 1;
   background-color: #d64933;
   /* box-sizing: border-box; */
