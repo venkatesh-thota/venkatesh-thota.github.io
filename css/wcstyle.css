@@ -87,6 +87,8 @@ html,body{
 	}
 	.header-right a:hover{
 	 font-size: 200%;
+	 text-shadow: 200% 200% red;
+
     }
 }
 .content{
