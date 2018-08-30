@@ -85,6 +85,9 @@ html,body{
 	.header-right li{
 		font-size: 100%;
 	}
+	.header-right a:hover{
+	 font-size: 200%;
+    }
 }
 .content{
 	background-color:#444;
